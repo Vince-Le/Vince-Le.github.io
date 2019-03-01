@@ -1,2 +1,2 @@
 # HappyOrder
-A supermarket app. Imitate others layout.
+A supermarket app. Imitate pages.
