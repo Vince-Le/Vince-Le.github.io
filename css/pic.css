@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	 background-color:#ffe;
+}
+#parentDiv{
+	margin:0px auto;
+	border:1px solid red;
+    width:1250px;
+	overflow:hidden;	/*清除浮动*/
+}
+#itemDiv{
+	margin:1px;
+	border:1px solid purple;
+	height:180px;
+	width:290px;
+	float:left;
+	overflow:hidden;	/*清除浮动*/
+}
+img{
+	max-height:180px;
+	max-width:290px;
+}
+
